@@ -1,0 +1,15 @@
+f = open('calories.txt')
+calories = f.readline()
+
+
+for week in range(4):
+    addcalories = 0
+    for i in range(7):
+         readcalorie = int(calories)
+         addcalories = readcalorie + addcalories
+    print('week ', week , 'total calories consumed ', addcalories)
+
+
+
+
+
