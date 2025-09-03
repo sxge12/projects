@@ -1,0 +1,3 @@
+Room101:Single,50,Includes free Wi-Fi. Breakfast.
+Room102:Double,75,Includes free Wi-Fi. Breakfast. Ocean view.
+Room201:Suite,120,Includes free Wi-Fi. Breakfast. A jacuzzi.
