@@ -1,0 +1,4 @@
+12:01:58 From Hermione Granger : hello!
+12:02:02 From Bilbo Baggins : good morning
+12:02:03 From Hercule Poirot : yo
+12:02:03 From Sherlock Holmes : hi
