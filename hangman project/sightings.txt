@@ -1,0 +1,3 @@
+ELP,Elephant,12,Savannah
+LON,Lion,8,Glasgow
+ZBR,Zebra,20,Edinburgh
