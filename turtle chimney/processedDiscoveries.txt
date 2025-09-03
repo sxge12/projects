@@ -1,0 +1,5 @@
+revolutionary:  Penicillin, 9, 2:  antibiotic properties,  medical revolution
+revolutionary:  Theory of Relativity, 10, 2:  space-time,  energy-mass equivalence
+significant:  Graphene, 7, 2:  electrical properties,  material strength
+minor:  Cold Fusion, 3, 2:  controversial,  unproven
+revolutionary:  CRISPR, 8, 3:  gene editing,  medical applications,  ethical concerns
